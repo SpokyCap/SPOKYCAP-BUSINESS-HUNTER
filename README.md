@@ -1,1 +1,1 @@
-# SPOKYCAP.BUSINESS.HUNTER
+# Just a normal script 💀
