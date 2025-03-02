@@ -79,9 +79,9 @@ def pppp():
     sys.stdout.flush()
 
 a = print(f"""
-{cyan}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-{cyan}┃ {blue}-> {white}Select The Year You Want To Hunt For {blue}-> {cyan} ┃
-{cyan}┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
+{cyan}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+{cyan}┃ {blue}-> {white}Select The Year You Want To Hunt For. {blue}-> {cyan} ┃
+{cyan}┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
 {cyan}┃ {orange}-> {blue}1{white} - {yellow}2011                             {cyan}    ┃
 {cyan}┃ {orange}-> {blue}2{white} - {yellow}2012                             {cyan}    ┃
 {cyan}┃ {orange}-> {blue}3{white} - {yellow}2013                             {cyan}    ┃
@@ -91,8 +91,8 @@ a = print(f"""
 {cyan}┃ {orange}-> {blue}7{white} - {yellow}2017                             {cyan}    ┃
 {cyan}┃ {orange}-> {blue}8{white} - {yellow}2018                             {cyan}    ┃
 {cyan}┃ {orange}-> {blue}9{white} - {yellow}2019                             {cyan}    ┃
-{cyan}┃ {orange}-> {blue}0{white} - {yellow}2011 {white}~ {yellow}2023                  {cyan}        ┃
-{cyan}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+{cyan}┃ {orange}-> {blue}0{white} - {yellow}2011 {white}~ {yellow}2023       {cyan}    ┃
+{cyan}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """)
 ShridharX = input(f"{green}-> {white}Please type the number of your choice: {reset}")
 
